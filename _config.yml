@@ -100,7 +100,7 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: hexo-theme-cupertino
 
-plugins:
+plugins_dir:
     hexo-generator-feed
 
 #Feed Atom
